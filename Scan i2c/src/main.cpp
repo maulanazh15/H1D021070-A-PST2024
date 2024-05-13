@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <Wire.h>
 
-int SDA_pin = D1;
-int SCL_pin = D2;
+int SDA_pin = D5;
+int SCL_pin = D6;
 
 void setup()
 {
